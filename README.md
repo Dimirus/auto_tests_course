@@ -1,2 +1,2 @@
 # auto_tests_course
-homework
+My homework from stepic course
